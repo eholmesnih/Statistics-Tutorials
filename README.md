@@ -1,4 +1,6 @@
 ## Contents
 
-- [ ] Python Cheatsheets
-- [ ] R Cheatsheets
+- Online Resources
+- Cheatsheets
+- One-pagers
+
